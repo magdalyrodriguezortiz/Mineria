@@ -17,3 +17,5 @@
 [Programa de Python de Ejercicio 1 Reglas de asociación](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb) 
 
 [Resumenes Técnicas](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/Resumenes_1815330.pdf)
+
+[Mapa MEntal 2](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/MapaMental_2_1815330.pdf)
