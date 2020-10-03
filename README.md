@@ -18,4 +18,4 @@
 
 [Resumenes Técnicas](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/Resumenes_1815330.pdf)
 
-[Mapa MEntal 2](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/MapaMental_2_1815330.pdf)
+[Mapa Mental 2](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/MapaMental_2_1815330.pdf)
