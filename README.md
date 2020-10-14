@@ -1,6 +1,6 @@
 # Mineria
 
-## FASE 1
+## FASE I
 
 [Mapa Mental](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/MapaMental_1_1815330.pdf)
 
@@ -19,3 +19,8 @@
 [Resumenes Técnicas](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/Resumenes_1815330.pdf)
 
 [Mapa Mental 2](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/MapaMental_2_1815330.pdf)
+
+
+## FASE II
+
+[Analisis BD](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/AnalisisBD_1815330.pdf)
