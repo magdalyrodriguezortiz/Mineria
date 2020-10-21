@@ -24,3 +24,5 @@
 ## FASE II
 
 [Analisis BD](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/AnalisisBD_1815330.pdf)
+
+[Python Basico](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/PythonBasico_1815330.ipynb)
