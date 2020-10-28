@@ -28,5 +28,5 @@
 [Python Basico](https://github.com/magdalyrodriguezortiz/Mineria/blob/master/PythonBasico_1815330.ipynb)
 
 
-
+-----------------------------------------------------------------------------------------------------
 [Avance I PIA](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Avance1-PIA_Equipo10_002.pdf)
