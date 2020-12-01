@@ -39,4 +39,4 @@
 
 [Código PIA](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/PIA_Grupo002_Equipo10.ipynb)
 
-[Poster PIA]()
+[PIA_E10_G002]()
