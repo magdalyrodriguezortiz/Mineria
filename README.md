@@ -37,6 +37,6 @@
 [Avance II PIA](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/AvancePIA_II_Grupo002_Equipo10.ipynb)
 
 
-[Código PIA](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/PIA_Grupo002_Equipo10.ipynb)
+[PIA_Código](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/PIA_Grupo002_Equipo10.ipynb)
 
 [PIA_E10_G002]()
